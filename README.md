@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me www.linkedin.com/in/linda-luvai34b17891
-
+-  Projects   https://www.sciencepublishinggroup.com/journal/archive?journalid=367&issueid=3670405
 <!---
 LovelyLuvai/LovelyLuvai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
